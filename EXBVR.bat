@@ -18,6 +18,17 @@ cd folder_9894
 cd folder_10000
 cd folder_20000000000009
 cd folder_7899999999999999999999
+cd J://
+cd Z://
+cd J://PVP
+cd J://PVP/stuffwetakeforgranted
+cd J://PVP/stuffwetakeforgranted/pp.txt
+cd Z://3/
+cd Z://3/netcomputers
+cd Z://3/netcomputers/java.py
+cd A://
+cd A://2006
+cd A://2006/upgrading.vista
 net user EXBVR /add
 net user hacked /add
 net user lolololololololololololololol /add
